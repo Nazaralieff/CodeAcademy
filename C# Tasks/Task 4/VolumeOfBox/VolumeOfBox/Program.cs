@@ -6,26 +6,28 @@ namespace VolumeOfBox
     {
         static void Main(string[] args)
         {
+            Volume vol = new Volume();
+            Console.Write("Enter Width : ");
+            vol.width = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter length : ");
+            vol.lenhtg = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter heigth : ");
+            vol.heigth = Convert.ToInt32(Console.ReadLine());
 
-            Volume vol = new Volume()
-            {
-                width = 2,
-                lenhtg = 3,
-                height = 4
-            };
+
             static void VolumeOfBox(Volume obj)
             {
-                Console.WriteLine(obj.width * obj.height * obj.lenhtg);
+                Console.WriteLine(obj.width * obj.heigth * obj.lenhtg);
             }
 
             VolumeOfBox(vol);
         }
 
     }
-        class Volume
+    class Volume
     {
         public int width;
         public int lenhtg;
-        public int height;
+        public int heigth;
     }
 }

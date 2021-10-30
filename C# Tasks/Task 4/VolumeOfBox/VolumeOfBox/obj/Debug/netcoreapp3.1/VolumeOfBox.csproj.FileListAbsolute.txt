@@ -26,3 +26,17 @@ C:\Users\Nazaralieff\Desktop\CA-Work-10\VolumeOfBox\VolumeOfBox\obj\Debug\netcor
 C:\Users\Nazaralieff\Desktop\CA-Work-10\VolumeOfBox\VolumeOfBox\obj\Debug\netcoreapp3.1\VolumeOfBox.dll
 C:\Users\Nazaralieff\Desktop\CA-Work-10\VolumeOfBox\VolumeOfBox\obj\Debug\netcoreapp3.1\VolumeOfBox.pdb
 C:\Users\Nazaralieff\Desktop\CA-Work-10\VolumeOfBox\VolumeOfBox\obj\Debug\netcoreapp3.1\VolumeOfBox.genruntimeconfig.cache
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\bin\Debug\netcoreapp3.1\VolumeOfBox.exe
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\bin\Debug\netcoreapp3.1\VolumeOfBox.deps.json
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\bin\Debug\netcoreapp3.1\VolumeOfBox.runtimeconfig.json
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\bin\Debug\netcoreapp3.1\VolumeOfBox.runtimeconfig.dev.json
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\bin\Debug\netcoreapp3.1\VolumeOfBox.dll
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\bin\Debug\netcoreapp3.1\VolumeOfBox.pdb
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\obj\Debug\netcoreapp3.1\VolumeOfBox.csproj.AssemblyReference.cache
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\obj\Debug\netcoreapp3.1\VolumeOfBox.GeneratedMSBuildEditorConfig.editorconfig
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\obj\Debug\netcoreapp3.1\VolumeOfBox.AssemblyInfoInputs.cache
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\obj\Debug\netcoreapp3.1\VolumeOfBox.AssemblyInfo.cs
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\obj\Debug\netcoreapp3.1\VolumeOfBox.csproj.CoreCompileInputs.cache
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\obj\Debug\netcoreapp3.1\VolumeOfBox.dll
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\obj\Debug\netcoreapp3.1\VolumeOfBox.pdb
+N:\App\Web\CodeAcademy\C# Tasks\Task 4\VolumeOfBox\VolumeOfBox\obj\Debug\netcoreapp3.1\VolumeOfBox.genruntimeconfig.cache

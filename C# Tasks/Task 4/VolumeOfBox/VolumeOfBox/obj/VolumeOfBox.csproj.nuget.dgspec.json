@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj": {}
+    "N:\\App\\Web\\CodeAcademy\\C# Tasks\\Task 4\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj": {
+    "N:\\App\\Web\\CodeAcademy\\C# Tasks\\Task 4\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
+        "projectUniqueName": "N:\\App\\Web\\CodeAcademy\\C# Tasks\\Task 4\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
         "projectName": "VolumeOfBox",
-        "projectPath": "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
+        "projectPath": "N:\\App\\Web\\CodeAcademy\\C# Tasks\\Task 4\\VolumeOfBox\\VolumeOfBox\\VolumeOfBox.csproj",
         "packagesPath": "C:\\Users\\Nazaralieff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nazaralieff\\Desktop\\CA-Work-10\\VolumeOfBox\\VolumeOfBox\\obj\\",
+        "outputPath": "N:\\App\\Web\\CodeAcademy\\C# Tasks\\Task 4\\VolumeOfBox\\VolumeOfBox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nazaralieff\\AppData\\Roaming\\NuGet\\NuGet.Config",
