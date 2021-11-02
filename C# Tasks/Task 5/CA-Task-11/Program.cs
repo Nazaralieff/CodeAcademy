@@ -1,32 +1,53 @@
 ﻿using System;
 using System.Text.RegularExpressions;
+using System.Linq;
 
 namespace CA_Task_11
 {
     class Program
     {
         #region Task 1
-        //static void Main(string[] args)
-        //{
-        //    int[] arr = new int[] { 7, 8, 3, 7, 4, 3, 5 };
-        //    Console.WriteLine(Clone(arr));
-        //}
+        // Modified
+        static void Main(string[] args)
+        {
+            int[] arr = new int[] { 7, 8, 3, 7, 4, 3, 5, 5, 7 };
+            foreach (var item in arr)
+            {
+                Console.Write(item + " ");
+            }
+            Console.WriteLine();
+            Console.WriteLine(DublicateNumber(arr));
 
-        //static int Clone(int [] array)
-        //{
-        //    int count = 0;
-        //    for (int i = 0; i < array.Length; i++)
-        //    {
-        //        for (int j = 0; j < array.Length; j++)
-        //        {
-        //            if (array[i] == array[j] && i != j)
-        //            {
-        //                count++;
-        //            }
-        //        }
-        //    }
-        //    return count;
-        //}
+        }
+
+        static int DublicateNumber(int[] array)
+        {
+            int[] dubl = new int[0];
+            for (int i = 0; i < array.Length; i++)
+            {
+                for (int j = 0; j < array.Length; j++)
+                {
+                    if (i != j && array[i] == array[j] && Array.TrueForAll(dubl, elem => elem != array[i]))
+                    {
+                        Array.Resize(ref dubl, dubl.Length + 1);
+                        dubl[dubl.Length - 1] = array[i];
+                    }
+                }
+            }
+
+            int[] dublcount = new int[0] { };
+            foreach (var item in dubl)
+            {
+                Console.Write(item + " ");
+                int[] arrayFind = Array.FindAll(array, elem => elem == item);
+                int count = dublcount.Length + arrayFind.Length;
+                Array.Resize(ref dublcount, count);
+                arrayFind.CopyTo(dublcount, count - arrayFind.Length);
+            }
+            Console.WriteLine();
+            return dublcount.Length;
+
+        }
         #endregion
 
         #region Task 2
@@ -34,13 +55,14 @@ namespace CA_Task_11
         //{
         //    int[] arr = new int[] { 7, 8, 3, 7, 4, 3, 5 };
         //    Console.WriteLine(Exists(arr, 8));
+        //    // Console.WriteLine(Array.Exists(arr, elem => elem == 8));
         //}
-        //static bool Exists(int [] array, int num)
+        //static bool Exists(int[] array, int num)
         //{
         //    bool boolValue;
         //    for (int i = 0; i < array.Length; i++)
         //    {
-        //        if(array[i] == num)
+        //        if (array[i] == num)
         //        {
         //            return true;
         //        }
@@ -54,6 +76,11 @@ namespace CA_Task_11
         //static void Main(string[] args)
         //{
         //    int[] arr = new int[] { 7, 8, 3, 7, 4, 3, 5 };
+        //    Array.Reverse(arr);
+        //    //for (int i = 0; i < arr.Length; i++)
+        //    //{
+        //    //    Console.Write(arr[i]);
+        //    //}
         //    for (int i = arr.Length - 1; i >= 0; i--)
         //    {
         //        Console.Write(arr[i] + " ");
@@ -80,9 +107,13 @@ namespace CA_Task_11
         #region Task 5
         //static void Main(string[] args)
         //{
-        //    int[] arr = new int[] { 7, 8, 3, 7, 4, 3, 5};
+        //    int[] arr = new int[] { 7, 8, 3, 7, 4, 3, 5 };
         //    int maks = arr[0];
         //    int min = arr[0];
+
+        //    //Console.WriteLine("Max : " + arr.Max());
+        //    //Console.WriteLine("Min : " + arr.Min());
+        //    //Console.WriteLine("Sum : " + arr.Sum());
         //    for (int i = 0; i < arr.Length; i++)
         //    {
         //        if (arr[i] > maks) maks = arr[i];

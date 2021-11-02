@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "N:\\App\\Visual Studio\\CA-Task-11\\CA-Task-11\\CA-Task-11.csproj": {}
+    "C:\\Users\\Nazaralieff\\Desktop\\CA-Task-11\\CA-Task-11.csproj": {}
   },
   "projects": {
-    "N:\\App\\Visual Studio\\CA-Task-11\\CA-Task-11\\CA-Task-11.csproj": {
+    "C:\\Users\\Nazaralieff\\Desktop\\CA-Task-11\\CA-Task-11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\App\\Visual Studio\\CA-Task-11\\CA-Task-11\\CA-Task-11.csproj",
+        "projectUniqueName": "C:\\Users\\Nazaralieff\\Desktop\\CA-Task-11\\CA-Task-11.csproj",
         "projectName": "CA-Task-11",
-        "projectPath": "N:\\App\\Visual Studio\\CA-Task-11\\CA-Task-11\\CA-Task-11.csproj",
+        "projectPath": "C:\\Users\\Nazaralieff\\Desktop\\CA-Task-11\\CA-Task-11.csproj",
         "packagesPath": "C:\\Users\\Nazaralieff\\.nuget\\packages\\",
-        "outputPath": "N:\\App\\Visual Studio\\CA-Task-11\\CA-Task-11\\obj\\",
+        "outputPath": "C:\\Users\\Nazaralieff\\Desktop\\CA-Task-11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nazaralieff\\AppData\\Roaming\\NuGet\\NuGet.Config",
