@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\Codes\\Back\\CodeAcademy\\C# Tasks\\Task 9\\Notebook Store\\Store.csproj",
-      "projectName": "Store",
-      "projectPath": "N:\\Codes\\Back\\CodeAcademy\\C# Tasks\\Task 9\\Notebook Store\\Store.csproj",
+      "projectUniqueName": "N:\\Codes\\Back\\CodeAcademy\\C# Tasks\\Task 10\\Tasks\\Tasks.csproj",
+      "projectName": "Tasks",
+      "projectPath": "N:\\Codes\\Back\\CodeAcademy\\C# Tasks\\Task 10\\Tasks\\Tasks.csproj",
       "packagesPath": "C:\\Users\\nazar\\.nuget\\packages\\",
-      "outputPath": "N:\\Codes\\Back\\CodeAcademy\\C# Tasks\\Task 9\\Notebook Store\\obj\\",
+      "outputPath": "N:\\Codes\\Back\\CodeAcademy\\C# Tasks\\Task 10\\Tasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nazar\\AppData\\Roaming\\NuGet\\NuGet.Config",

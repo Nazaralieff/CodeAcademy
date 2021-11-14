@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "N:\\Codes\\Back\\CodeAcademy\\C# Tasks\\Task 9\\Notebook Store\\Store.csproj": {}
+    "C:\\Users\\nazar\\Desktop\\Contact\\Contact\\AdressBook.csproj": {}
   },
   "projects": {
-    "N:\\Codes\\Back\\CodeAcademy\\C# Tasks\\Task 9\\Notebook Store\\Store.csproj": {
+    "C:\\Users\\nazar\\Desktop\\Contact\\Contact\\AdressBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\Codes\\Back\\CodeAcademy\\C# Tasks\\Task 9\\Notebook Store\\Store.csproj",
-        "projectName": "Store",
-        "projectPath": "N:\\Codes\\Back\\CodeAcademy\\C# Tasks\\Task 9\\Notebook Store\\Store.csproj",
+        "projectUniqueName": "C:\\Users\\nazar\\Desktop\\Contact\\Contact\\AdressBook.csproj",
+        "projectName": "AdressBook",
+        "projectPath": "C:\\Users\\nazar\\Desktop\\Contact\\Contact\\AdressBook.csproj",
         "packagesPath": "C:\\Users\\nazar\\.nuget\\packages\\",
-        "outputPath": "N:\\Codes\\Back\\CodeAcademy\\C# Tasks\\Task 9\\Notebook Store\\obj\\",
+        "outputPath": "C:\\Users\\nazar\\Desktop\\Contact\\Contact\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nazar\\AppData\\Roaming\\NuGet\\NuGet.Config",

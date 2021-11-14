@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nazar\\Desktop\\Tasks\\Tasks\\Tasks.csproj",
-      "projectName": "Tasks",
-      "projectPath": "C:\\Users\\nazar\\Desktop\\Tasks\\Tasks\\Tasks.csproj",
+      "projectUniqueName": "C:\\Users\\nazar\\Desktop\\Contact\\Contact\\AddressBook.csproj",
+      "projectName": "AddressBook",
+      "projectPath": "C:\\Users\\nazar\\Desktop\\Contact\\Contact\\AddressBook.csproj",
       "packagesPath": "C:\\Users\\nazar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nazar\\Desktop\\Tasks\\Tasks\\obj\\",
+      "outputPath": "C:\\Users\\nazar\\Desktop\\Contact\\Contact\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
